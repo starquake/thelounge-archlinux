@@ -1,1 +1,1 @@
-u thelounge - "thelounge" /etc/thelounge
+u thelounge - "thelounge" /var/lib/thelounge
